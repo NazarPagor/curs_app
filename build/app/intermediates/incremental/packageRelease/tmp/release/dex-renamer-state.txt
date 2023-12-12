@@ -1,4 +1,0 @@
-#Sun Dec 10 19:55:01 EET 2023
-base.0=/Users/nazarpagor/apps/PocketPal/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
